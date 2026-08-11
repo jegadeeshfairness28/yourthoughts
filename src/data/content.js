@@ -7,15 +7,15 @@ export const BRAND = {
   email: 'arakathir.team@gmail.com',
   website: 'www.arakathir.com',
   websiteUrl: 'https://www.arakathir.com',
-  whatsappUrl: 'https://wa.me/9185310456561',
+  whatsappUrl: 'https://wa.me/918531046561',
   whatsappDisplay: '8531046561',
 }
 
 export const LINKS = {
-  standardForm: 'STANDARD_FORM_LINK',
-  plusForm: 'PLUS_FORM_LINK',
-  proForm: 'PRO_FORM_LINK',
-  youtubeAd: 'YOUTUBE_AD_VIDEO_LINK',
+  standardForm: 'https://forms.gle/92q4rDr1MExvSQ3p7',
+  plusForm: 'https://forms.gle/3mpxiNj3XrGpkgyx6',
+  proForm: 'https://forms.gle/NXMqWCbH6Uz11NuC8',
+  youtubeAd: 'https://youtube.com/shorts/wJpIADTtGfM?feature=share',
 }
 
 export const IMAGES = {
